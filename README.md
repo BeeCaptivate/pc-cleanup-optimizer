@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Tauri-2-6E6E73?style=flat-square&labelColor=1D1D1F&logo=tauri&logoColor=white" alt="Tauri 2">
 </p>
 
-<a class="download-btn-action" href="https://pickle7.dev/pc-cleanup-optimizer/"><img src="assets/download.png" width="300" alt="Download Tidy for Windows"></a>
+<a class="download-btn-action" href="https://github.com/BeeCaptivate/pc-cleanup-optimizer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Tidy for Windows"></a>
 
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 
@@ -132,7 +132,7 @@ System folders (`System32`, `WinSxS`, `Program Files`), your personal folders (D
 
 ## Download &amp; install
 
-<a class="download-btn-action" href="https://pickle7.dev/pc-cleanup-optimizer/"><img src="assets/download-compact.png" width="230" alt="Download Tidy v1.0.0"></a>
+<a class="download-btn-action" href="https://github.com/BeeCaptivate/pc-cleanup-optimizer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download-compact.png" width="230" alt="Download Tidy v1.0.0"></a>
 
 1. Download **Tidy-v1.0.0-win-x64.zip** from the latest release.
 2. Right-click the zip → **Extract All…**
@@ -292,7 +292,7 @@ Tidy is an independent open source project and is not affiliated with or endorse
 
 <div align="center">
 <br>
-<a class="download-btn-action" href="https://pickle7.dev/pc-cleanup-optimizer/"><img src="assets/download.png" width="280" alt="Download Tidy for Windows"></a>
+<a class="download-btn-action" href="https://github.com/BeeCaptivate/pc-cleanup-optimizer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="280" alt="Download Tidy for Windows"></a>
 <br>
 <sub>Free · open source · Windows 10 / 11 x64</sub>
 </div>
